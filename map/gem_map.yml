@@ -1,0 +1,10 @@
+---
+module:
+  name: "ui.tinymce'"
+uis:
+  - name: ui-tinymce
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
